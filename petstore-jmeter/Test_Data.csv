@@ -1,0 +1,3 @@
+Username,Password,First Name,Last Name,Email,Phone,Address 1,Address 2,City,State,ZIP,Country,Language,Category,List,Banner,Card Type,Card Number,Card Expire,Quantity
+yahya_99,yahianashar,Yahya,AlNashar,yahya%40gmail.com,10123456789,Haram,Faisal,Giza,Cairo,1234,Egypt,english,FISH,true,true,Visa,999+9999+9999+9999,12%2F03,10
+khaled_99,khalednashar,Khaled,Nashar,khaled%40gmail.com,12123456789,Dokki,Zamalek,Cairo,Cairo,5678,Egypt,japanese,DOGS,false,false,MasterCard,123+1234+1234+1234,10%2F10,10
